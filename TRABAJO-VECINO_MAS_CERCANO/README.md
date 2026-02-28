@@ -151,6 +151,14 @@ Una vez que se tiene el clustering, la opcion `8` permite ingresar un nuevo punt
 
 ---
 
+### Menu de ayuda
+
+La opcion `h` muestra la descripcion completa de todas las funciones del programa sin necesidad de salir del flujo principal. Es util para recordar que hace cada opcion sin tener que adivinar. Se puede consultar en cualquier momento desde la barra de estado.
+
+![Menu de ayuda](img9.png)
+
+---
+
 ## Algoritmos implementados
 
 ### Distancia Euclidiana
