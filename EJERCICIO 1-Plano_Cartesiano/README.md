@@ -101,4 +101,4 @@ Escribe `1` para agregar un punto, luego ingresa la coordenada X y la coordenada
 
 ---
 
-*Ejercicio desarrollado como parte del curso de Estructuras de Datos Avanzado.*
+*Ejercicio desarrollado como parte del curso de Estructuras de Datos Avanzados.*
